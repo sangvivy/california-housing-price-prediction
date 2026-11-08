@@ -14,7 +14,7 @@ The project includes an interactive Streamlit application
 that allows users to input housing characteristics and
 generate median house value predictions.
 
-![California Housing Prediction Dashboard](images/streamlit_dashboard.png)
+![California Housing Prediction Dashboard](Images/streamlit_dashboard.png)
 
 ### Project Objectives
 
