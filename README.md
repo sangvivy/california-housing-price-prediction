@@ -8,6 +8,14 @@ The project uses a **K-Nearest Neighbors (KNN) Regressor** within a Scikit-learn
 
 A Streamlit application is also developed to allow users to enter housing characteristics and obtain predictions using the trained model.
 
+## Streamlit Application Preview
+
+The project includes an interactive Streamlit application
+that allows users to input housing characteristics and
+generate median house value predictions.
+
+![California Housing Prediction Dashboard](images/streamlit_dashboard.png)
+
 ### Project Objectives
 
 - Load and explore the California Housing dataset.
